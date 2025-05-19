@@ -22,6 +22,10 @@ public class Principal {
 		
 		int menuPrincipal, menuPrincipalIngCivil;
 		
+		int num1 = 20;
+		int resultado = num1 * 20;
+		System.out.println("Resultado: " + resultado);
+		
 		ImplementacionIngCivil impCivil = new ImplementacionIngCivil();
 		
 		do {
